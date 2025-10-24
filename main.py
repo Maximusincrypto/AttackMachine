@@ -1,5 +1,5 @@
 import asyncio
-import sys
+import sys2222222
 
 from config import TITLE
 from termcolor import cprint
